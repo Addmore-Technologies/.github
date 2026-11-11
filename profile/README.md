@@ -3,9 +3,9 @@
 
 # ADDMORÉ TECHNOLOGIES
 
-**Ideas into systems. Problems into possibilities.**
+### Ideas into systems. Problems into possibilities.
 
-Building technology that connects people, intelligence, and the real world.
+We build technology around real-world challenges.
 
 <br/>
 
@@ -15,100 +15,193 @@ Building technology that connects people, intelligence, and the real world.
 
 ---
 
-## Beyond the Code.
+## BEYOND THE CODE.
 
-We are **Addmoré Technologies** — a technology-driven initiative focused on turning meaningful ideas into practical solutions.
+Addmoré Technologies is a technology-driven initiative focused on transforming ideas into meaningful, practical solutions.
 
-From intelligent applications to connected systems, we explore how technology can solve real problems, simplify everyday experiences, and create a lasting impact.
+We explore the intersection of software engineering, artificial intelligence, connected systems, and human-centred innovation.
 
-We believe good technology should do more than work.  
-**It should matter.**
+Our work spans accessibility, healthcare, education, personal safety, and intelligent applications.
 
----
+We don't believe technology should simply exist.
 
-## What We're Building
-
-Four core projects. Four different challenges. One shared vision.
-
-### 01 — ISHARA
-**Breaking communication barriers.**
-
-An initiative exploring Indian Sign Language and speech translation to make communication more accessible and inclusive.
-
-### 02 — SAFETY BRACELET
-**Technology with personal safety in mind.**
-
-A wearable-focused initiative exploring how connected technology can contribute to personal safety and quicker access to support.
-
-### 03 — LAKSHYA
-**The Academic Assistant.**
-
-An intelligent academic assistance platform designed to bring academic resources, student workflows, and campus experiences into one connected space.
-
-### 04 — PUNARNAVA
-**A health record that never closes.**
-
-A maternal healthcare initiative connecting mothers, families, ASHA workers, and clinicians through a continuous care journey — from pregnancy through the first postpartum year.
+**We believe it should make a difference.**
 
 ---
 
-## How We Build
+# OUR PROJECTS
 
-We believe meaningful products are built through experimentation, collaboration, and engineering.
+Four initiatives. Four different challenges. One vision.
 
-Our work spans:
+### 01. ISHARA
+*Communication without barriers.*
 
-- Artificial Intelligence & Machine Learning
-- Full-Stack Application Development
-- Human-Centred Technology
-- Connected Systems & Real-Time Applications
-- Healthcare and Accessibility Technology
+ISHARA is a two-way Indian Sign Language (ISL) and speech translation kiosk designed to bridge communication between sign-language users and staff at public service centres.
+
+With separate Vision Lab and Voice Lab interfaces, a real-time session server, and a Python-based AI processing service, the system aims to make everyday public interactions more accessible.
+
+**Focus:** Accessibility · Computer Vision · Speech Technology · Real-Time Communication
+
+### 02. SAFETY BRACELET
+*Personal safety, designed to stay close.*
+
+A wearable safety concept combining location awareness, intelligent sensing, and connected alerts.
+
+The proposed bracelet integrates Bluetooth connectivity, satellite positioning, motion sensing, heart-rate monitoring, a manual alert switch, and tamper detection. It also explores strap-embedded wireless charging and phone-based emergency notifications.
+
+**Focus:** Wearable Technology · IoT · Embedded Systems · Personal Safety
+
+### 03. LAKSHYA — THE ACADEMIC ASSISTANT
+*Making academic life more connected.*
+
+Lakshya is an academic assistance platform designed to bring student and faculty workflows into a connected digital environment.
+
+The platform brings together academic resources, study assistance, AI-supported question answering, calendar workflows, and Course Outcome (CO) tracking.
+
+**Focus:** EdTech · AI-Assisted Learning · Academic Workflows · Full-Stack Development
+
+### 04. PUNARNAVA
+*A health record that never closes.*
+
+Punarnava is a longitudinal maternal healthcare platform designed to connect a mother's care journey from pregnancy through the first postpartum year.
+
+It brings together mothers, ASHA workers, family supporters, and clinicians through maternal milestones, field visits, wellness and diet support, private journaling, and a clinician-facing record portal.
+
+The platform is designed to support continuity of care while keeping clinical decisions with qualified professionals.
+
+**Focus:** Digital Healthcare · Maternal Care · Health Records · Role-Based Applications
 
 ---
 
-## Development Clusters
+# DEVELOPMENT CLUSTERS
 
-Different teams. Different perspectives. A shared engineering culture.
+Our development work is organised into collaborative clusters, each bringing together different skills, ideas, and engineering perspectives.
 
-### CLUSTER A — BRAIN.EXE
+## CLUSTER A — BRAIN.EXE
 
-**Think beyond the obvious. Build beyond the expected.**
+### THINK BEYOND THE OBVIOUS.
 
-Brain.exe is the first development cluster under Addmoré Technologies — bringing together ideas, engineering, and experimentation across multiple domains.
+Brain.exe is the first development cluster under Addmoré Technologies.
 
-**The Team**
+A team focused on engineering solutions across artificial intelligence, real-time systems, healthcare technology, supply-chain intelligence, and connected applications.
 
-- Aparna
-- Arya Krishna
+**THE TEAM**
+
+- Aparna Dhiraj
+- AryaKrishna CS
 - Danwin Sajith
 - Harisha Pal
 
-**Project Portfolio**
+---
 
-| PROJECT | FOCUS |
-|:--|:--|
-| Project-44 | [Project description to be added] |
-| OrbitVeil | [Project description to be added] |
-| Trauma Route | [Project description to be added] |
-| PHC-SupplyChain | [Project description to be added] |
-| ISHARA | [Project description to be added] |
-| Stock Sense | [Project description to be added] |
-| Smart Irrigation | [Project description to be added] |
+## THE BRAIN.EXE PROJECT PORTFOLIO
+
+Seven projects. Multiple domains. One engineering mindset.
+
+### 01 — PROJECT-44
+*Seeing disruption before it becomes a crisis.*
+
+An AI-powered shipping risk intelligence platform built to monitor global trade corridors and identify potential disruptions.
+
+The platform combines route-risk scoring, disruption alerts, interactive maps, and AI-assisted rerouting recommendations to support logistics and supply-chain decision-making.
+
+`Supply Chain Intelligence` `Machine Learning` `Geospatial Analytics`
+
+### 02 — ORBITVEIL
+*AI that sees, without seeing everything.*
+
+A privacy-preserving browser AI agent developed for Smart India Hackathon 2026 — ISRO problem statement.
+
+OrbitVeil uses local visual processing to identify and redact sensitive information, such as faces, passwords, and personally identifiable information, before screen content is sent to a server-side vision-language model for reasoning and action planning.
+
+`Privacy-First AI` `Computer Vision` `Browser Automation`
+
+### 03 — TRAUMA ROUTE
+*Every second matters. Every destination counts.*
+
+A real-time emergency-response platform connecting paramedics and hospitals.
+
+The system is designed to help match trauma patients with suitable hospitals based on injury severity, hospital capabilities, and availability. Separate hospital and paramedic interfaces communicate through a central server with real-time updates.
+
+`Emergency Technology` `Hospital Matching` `Real-Time Systems`
+
+### 04 — PHC-SUPPLYCHAIN
+*Strengthening the systems behind primary healthcare.*
+
+A healthcare supply-chain monitoring and management platform focused on improving visibility and coordination across primary healthcare supply operations.
+
+It combines interactive mapping, backend analytics, and machine-learning capabilities to support supply-chain monitoring and operational decision-making.
+
+`HealthTech` `Supply Chain Management` `AI & Analytics`
+
+### 05 — ISHARA
+*Making communication more inclusive.*
+
+A two-way Indian Sign Language and speech translation kiosk designed for public-facing service environments.
+
+ISHARA brings together camera-based sign recognition, speech interaction, and real-time communication through connected frontend applications and an AI processing service.
+
+`Accessibility` `Sign Language Technology` `AI`
+
+### 06 — STOCK SENSE
+*Know your stock. Stay ahead of your inventory.*
+
+A modular inventory management system designed to digitise stock-related operations.
+
+Stock Sense replaces scattered inventory records with a centralised application for managing and monitoring stock, supported by a web interface, data visualisation, and QR functionality.
+
+`Inventory Management` `Full-Stack Development` `Data Visualisation`
+
+### 07 — SMART IRRIGATION
+*Smarter water decisions. Healthier crop growth.*
+
+An intelligent irrigation initiative exploring how IoT sensors and environmental data can help determine crop water requirements.
+
+The system considers inputs such as soil moisture, weather conditions, rainfall, crop type, and growth stage to support more efficient irrigation and reduce unnecessary water usage.
+
+`Agricultural Technology` `IoT` `Machine Learning`
 
 ---
 
-## The Bigger Picture
+# WHAT WE EXPLORE
 
-We are not here to build projects just to add them to a portfolio.
+Our engineering interests extend across:
 
-We are here to explore ideas, challenge conventional approaches, learn through building, and create technology that has a purpose beyond the screen.
+- Artificial Intelligence & Machine Learning
+- Full-Stack Application Development
+- Computer Vision & Intelligent Agents
+- Internet of Things & Embedded Systems
+- Real-Time Communication & Connected Platforms
+- Healthcare & Accessibility Technology
+- Data Intelligence & Automation
 
-**This is Addmoré Technologies.  
-And we're only getting started.**
+---
+
+# OUR APPROACH
+
+**01 — Identify**
+
+Understand the problem before choosing the technology.
+
+**02 — Experiment**
+
+Explore ideas, test assumptions, and build prototypes.
+
+**03 — Engineer**
+
+Turn concepts into functional systems through collaboration.
+
+**04 — Improve**
+
+Learn from feedback, refine the solution, and keep building.
 
 ---
 
 <div align="center">
+
+## THE WORK IS JUST GETTING STARTED.
+
+We are here to experiment, engineer, and create technology with purpose.
 
 **ADDMORÉ TECHNOLOGIES**
 
